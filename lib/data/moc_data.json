@@ -1,0 +1,13 @@
+[
+    {
+        "image": "",
+        "name": "Long Beach Ixtepa",
+        "room": "4",
+        "bedroom" : "2",
+        "wifi" : "Wi-Fi",
+        "rent" : "4.5",
+        "cost" : "500",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus nec nisl, amet tellus metus sed. Tortor fames nibh arcu, purus at dictum turpis ultrices velit. Ver más...",
+        "owner" : "Micael Orlando"
+    }
+]
